@@ -1,1 +1,34 @@
+/* Yuwa Ike */
+/* Nov 18 2021*/
+/* quiz2A style.css */
+/* TEJ201*/
 
+* {
+  background-color: yellow;
+}
+
+h2 { 
+  color: brown;
+  background-color: pink; 
+  text-transform: uppercase;
+}
+
+h3 {
+  color: black;
+  background-color: green; 
+}
+
+li { 
+  color: orange;
+}
+
+/*list color change
+li {
+  Biking;
+  color: red;
+}*/
+
+p {
+  font-family: arial;
+  font-size: 15;
+}
